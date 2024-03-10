@@ -5,4 +5,4 @@ https://github.com/Afghanistantest/M.git
 
 cd M
 
-python m_r.py
+python v3.py
